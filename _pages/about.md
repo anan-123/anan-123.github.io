@@ -9,7 +9,7 @@ redirect_from:
 ---
 Howdy! I'm Dr. Rachael Tatman and I'm a language technology educator. I like to say I "make NLP boring": I want us all to build (and be able to use!) reliable, useful language technology tools that genuinely improve people's lives.
 
-## Do you work on, or want to work on, language technology? Check out my book (w/ free bonus checklist) [The 9 Most Common Language Technology Mistakes (and how to avoid them!)](https://ko-fi.com/s/ba37783585). It's a quick read and I've worked really hard to distill down only the most important & time saving advice. 😊
+### Do you work on, or want to work on, language technology? Check out my book (w/ free bonus checklist) [The 9 Most Common Language Technology Mistakes (and how to avoid them!)](https://ko-fi.com/s/ba37783585). It's a quick read and I've worked really hard to distill down only the most important & time saving advice. 😊
 
 Previously I've been a developer advocate for [Rasa](https://rasa.com/) and both developer advocate and data scientist at [Kaggle](https://www.kaggle.com/rtatman). I have also published research in [computational sociolinguistics](https://makingnoiseandhearingthings.com/2017/06/13/what-is-computational-sociolinguistics-and-whos-doing-it/), or how our social identity affects the way we use language in computational contexts. Full text of most of my papers are avaliable under the "Publications" tab.
 
