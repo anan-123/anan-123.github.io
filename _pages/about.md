@@ -15,7 +15,7 @@ Howdy! I'm Dr. Rachael Tatman and I'm a language technology educator. I like to 
 I stream on both [YouTube](https://www.youtube.com/c/RachaelTatmanNLP) and [Twitch](https://www.twitch.tv/rctatman/)  and I've love to see you there! My current streaming sechdule (as of May 31st 2022) is: 
 
 - NLP or ML deep dive on Tuesdays at 7 AM Pacific/10 AM Eastern/7:30 PM IST
-- NLP & ML week in review on Thursdays at 7 AM Pacific/10 AM Eastern/7:30 PM IST
+- NLP & ML week in review on Thursdays at 7 AM Pacific/10 AM Eastern/7:30 PM IST. This is also avaliable as a podcast through [RSS](https://feeds.listenbox.app/rss/hK2ysaCcZQTv/audio.rss), [Spotify](https://open.spotify.com/show/2AXqJs0bZ3TgSJKsHnS4qk) or [iTunes](https://podcasts.apple.com/us/podcast/coffee-chat-machine-learning-natural-language-processing/id1648157556).
 
 The best way to keep up with me is [by subscribing to my (very infrequent) newsletter](https://tinyletter.com/rctatman). You can also follow me [on Twitter](https://twitter.com/rctatman) or [Mastedon](https://mastodon.rctatman.com/@rctatman). If you'd like to support my work, the best way is [through my ko-fi](https://ko-fi.com/rctatman/tiers).
 
