@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-### Do you work on, or want to work on, language technology? Check out my book (w/ free bonus checklist) [The 9 Most Common Language Technology Mistakes (and how to avoid them!)](https://ko-fi.com/s/ba37783585). It's a quick read and I've worked really hard to distill down only the most important & time saving advice. 😊
+Hi there! I'm Anandhini Rajendran 👋
+I'm a Master's student in Computer Science at UC San Diego, where I’m passionate about building intelligent systems at the intersection of agentic AI, large language models (LLMs), and computer vision.
 
-Howdy! I'm Dr. Rachael Tatman and I'm a language technology educator. I like to say I "make NLP boring": I want us all to build (and be able to use!) reliable, useful language technology tools that genuinely improve people's lives.
+Previously, I worked as a Software Engineer at Jio Platforms, where I optimized big data workflows using Spark and Hive, and enhanced content recommendation systems—cutting runtime by 61% through smart caching and performance tuning. I earned my Bachelor's degree from IIIT Hyderabad, with research focused on multimodal AI agents (leveraging tools like Stable Diffusion and DALL·E) and Human-Computer Interaction.
 
-I'm not currently streaming regularly, but you can find a lot of my content here or on my [YouTube channel](https://www.youtube.com/c/RachaelTatmanNLP). The best way to keep up with me is [by subscribing to my (very infrequent) newsletter](https://tinyletter.com/rctatman). You can also follow me <a rel="me" href="https://mastodon.rctatman.com/@rctatman">on Mastodon</a>. 
+My toolkit includes Python, C++, SQL, React, and big data systems, with hands-on experience in machine learning, NLP, and computer vision. I’m currently exploring opportunities in software engineering, AI, and data science—especially roles where I can help design scalable, AI-driven solutions that make a real-world impact.
 
-Previously I've been a developer advocate for [Rasa](https://rasa.com/) and both developer advocate and data scientist at [Kaggle](https://www.kaggle.com/rtatman). I have also published research in [computational sociolinguistics](https://makingnoiseandhearingthings.com/2017/06/13/what-is-computational-sociolinguistics-and-whos-doing-it/), or how our social identity affects the way we use language in computational contexts. Full text of most of my papers are avaliable under the "Publications" tab.
-
-I do have limited availability for contract work in 2023. If you'd like to work with me you can <a href = "mailto: info@makingnoiseandhearingthings.com">reach out here</a>.
+If you're working on something in that space or just want to connect, feel free to reach out 😊!
