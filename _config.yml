@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Rachael Tatman"
+title                    : "Anandhini Rajendran"
 title_separator          : "-"
-name                     : &name "Rachael Tatman"
-description              : &description "Data scientist, Developer advocate, Linguist"
-url                      : https://www.rctatman.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Anandhini Rajendran"
+description              : &description "Software Engineer, AI Researcher"
+url                      : https://anan-123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "rctatman/rctatman.github.io"
+repository               : "anan-123/anan-123.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Rachael Tatman"
+  name             : "Anandhini"
   avatar           : "rachael_headshot (2).jpg"
-  bio              : "Data Science & NLP"
-  location         : "Seattle, WA"
+  bio              : "SDE, CV/ML, AI, Robotics"
+  location         : "San Diego, CA"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=pqv8uYoAAAAJ&hl=en"
   email            : #"rachael.tatman@gmail.com"
   uri              :
   bitbucket        :
@@ -91,22 +91,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rctatman"
+  github           : "anan-123"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rachael-tatman-500a323a"
+  linkedin         : "anandhini-rajendran"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  twitter          : "rctatman"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "RachaelTatmanNLP"
+  youtube          : 
   wikipedia        :
 
 
