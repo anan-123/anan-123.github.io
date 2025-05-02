@@ -3,11 +3,11 @@ main:
   - title: "Projects"
     url: /projects/    
 
-  - title: "Projects"
-    url: /teaching/
+  # - title: "Projects"
+  #   url: /teaching/
         
-  - title: "Blog"
-    url: https://makingnoiseandhearingthings.com/
+  # - title: "Blog"
+  #   url: https://makingnoiseandhearingthings.com/
     
   - title: "Resume"
     url: https://drive.google.com/file/d/1mxt9-3pfHRIWjlp4mskxWBOWzvGGpWlk/view?usp=sharing
