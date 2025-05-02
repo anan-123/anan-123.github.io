@@ -45,7 +45,7 @@ Publications
 Projects
 ======
   <ul>{% for post in site.projects %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-project-cv.html %}
   {% endfor %}</ul>
   
 Teaching

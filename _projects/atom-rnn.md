@@ -1,8 +1,8 @@
 ---
 title: "Paper Discussion: The Importance of Being Recurrent for Modeling Hierarchical Structure"
-collection: talks
-type: "Talk"
-permalink: /talks/atom-rnn
+collection: projects
+type: "project"
+permalink: /projects/atom-rnn
 venue: "Advanced Topics on Machine Learning discussion group"
 date: 2018-11-27
 location: "Seattle WA"

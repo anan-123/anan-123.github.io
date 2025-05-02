@@ -1,7 +1,7 @@
 ---
 title: "Applying for an NSF Graduate Research Fellowship"
 collection: teaching
-venue: Invited talk
+venue: Invited project
 type: "Handout"
 permalink: /teaching/applying_NSFGRFP
 date: 2015-01-01

@@ -1,9 +1,9 @@
 ---
 title: "How to find stories in data through visualization"
-collection: talks
-type: "Talk"
+collection: projects
+type: "project"
 venue: "The National Institute for Computer-Assisted Reporting"
-permalink: /talks/exploratory_viz
+permalink: /projects/exploratory_viz
 date: 2018-03-09
 location: "Chicago IL"
 ---

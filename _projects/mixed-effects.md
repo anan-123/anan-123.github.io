@@ -1,8 +1,8 @@
 ---
 title: "Mixed Effects Regression"
-collection: talks
-type: "Talk"
-permalink: /talks/mixed-effects
+collection: projects
+type: "project"
+permalink: /projects/mixed-effects
 venue: Google Developer Group (GDG) Seattle
 date: 2018-09-26
 location: "Seattle, WA"

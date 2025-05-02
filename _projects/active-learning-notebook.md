@@ -2,7 +2,7 @@
 title: "I do, We do, You Do: Supporting active learning with notebooks"
 collection: 
 type: "Workshop"
-permalink: /talks/active-learning-notebooks
+permalink: /projects/active-learning-notebooks
 venue: JupyterCon
 date: 2018-08-22
 location: "New York NY"

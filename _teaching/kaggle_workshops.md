@@ -14,7 +14,7 @@ Practical Model Evaluation (with AutoML)
 
 How do you know which machine learning model  is going to work best for a specific problem? Learning how to evaluate machine learning models is an important part of the data science workflow. You'll need it for everything from picking your final submissions for a Kaggle competition to choosing which model your team should put into production.
 
-We know how important model evaluation is, so we've put together a three-day workshop to walk you through the model evaluation process from start to finish. We'll go beyond just optimization metrics, though, and talk about factors for model selection relevant to working data scientists.
+We know how important model evaluation is, so we've put together a three-day workshop to walk you through the model evaluation process from start to finish. We'll go beyond just optimization metrics, though, and project about factors for model selection relevant to working data scientists.
 
 -   Day 1 Notebook: [Figuring out what matters for you](https://www.kaggle.com/rtatman/practical-model-evaluation-day-1)
 

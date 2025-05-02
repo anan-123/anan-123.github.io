@@ -2,7 +2,7 @@
 title: "Project-Based Applications"
 collection: teaching
 type: "Handouts"
-venue: Invited talk
+venue: Invited project
 permalink: /teaching/applications
 date: 2015-08-01
 ---

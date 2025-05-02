@@ -1,8 +1,8 @@
 ---
 title: "Reproducible Research Best Practices (highlighting Kaggle Kernels)"
-collection: talks
+collection: projects
 type: "Workshop"
-permalink: /talks/reproducible-best-practices
+permalink: /projects/reproducible-best-practices
 venue: JupyterCon
 date: 2018-08-21
 location: "New York NY"
