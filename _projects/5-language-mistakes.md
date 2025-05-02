@@ -1,8 +1,8 @@
 ---
 title: "5 mistakes you'll probably make with language data (and how to recover)"
 collection: talks
-type: "Talk"
-permalink: /talks/5-language-mistakes
+type: "projects"
+permalink: /projectss/5-language-mistakes
 venue: New York R Conference
 date: 2021-9-9
 location: "Virtual"
