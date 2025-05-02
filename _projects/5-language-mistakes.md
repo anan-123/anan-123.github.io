@@ -1,6 +1,6 @@
 ---
 title: "5 mistakes you'll probably make with language data (and how to recover)"
-collection: talks
+collection: projects
 type: "projects"
 permalink: /projects/5-language-mistakes
 venue: New York R Conference
