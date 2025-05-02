@@ -1,6 +1,6 @@
 ---
 title: "I do, We do, You Do: Supporting active learning with notebooks"
-collection: talks
+collection: 
 type: "Workshop"
 permalink: /talks/active-learning-notebooks
 venue: JupyterCon
