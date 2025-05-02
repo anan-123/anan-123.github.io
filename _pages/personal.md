@@ -7,8 +7,8 @@ redirect_from:
 ---
 
 <img align="right" src="https://github.com/rctatman/rctatman.github.io/blob/master/images/circus_pic.jpeg?raw=true">
+<img src="https://github.com/anan-123/anan-123.github.io/blob/master/images/beach.jpg?raw=true" align="right" style="margin: 10px;">
+<img src="https://github.com/anan-123/anan-123.github.io/blob/master/images/painting.jpg?raw=true" align="right" style="margin: 10px;">
+<img src="https://github.com/anan-123/anan-123.github.io/blob/master/images/ramen.jpg?raw=true" align="right" style="margin: 10px;">
 
-
-When I'm not working, I have a number of hobbies. I enjoy gaming: both video games and strategic boardgames. I also knit, crochet and spin. My Ravelry id is rctatman and I've even been known to release the occasional knitting pattern. In addition, I really enjoy circus arts, especially dance apparatuses like dance aerial sling and [dance trapeze](https://www.dropbox.com/s/b1qfrdynfqxyuyr/rachael_TrapeezePiece.MTS?dl=0). I even [danced my PhD on the Trapeeze](https://www.youtube.com/watch?v=Fct1QBv1oWE)!
-
-I had an African Pygmy Hedgehog named Gustav, who [apparently preferred Python to R](https://twitter.com/rctatman/status/992065377378095106). He passed May 2020. You can find [a memorial scrapbook I've put together here](https://www.dropbox.com/s/3cjg8dwuv3g5uzq/gustav_book.pdf?dl=0).
+When I’m not working, I love spending time at the beach and exploring foods from different cultures—trying something new is always exciting. I also enjoy painting in my free time; it’s a creative outlet that helps me unwind (you can see an example in the pic!). I occasionally dance or get in a good workout to stay active and energized. I also really enjoy watching Korean and Chinese dramas.
