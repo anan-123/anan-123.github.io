@@ -4,8 +4,8 @@ collection: projects
 type: "project"
 permalink: /projects/os-ai-chatbots
 venue: Qualcomm
-date: 2024-01-10 to Present
-location: San Diego,  CA
+date: 2025-01-10
+location: San Diego, CA
 ---
-Developing a Follow-Me robot using the Qualcomm RB3 board, integrating pose estimation
+Developing a Follow-Me robot using the Qualcomm RB3 board and wave rover robot, integrating pose estimation
 and SLAM for autonomous tracking and navigation.

@@ -1,14 +1,14 @@
 ---
-title: "I do, We do, You Do: Supporting active learning with notebooks"
+title: "Navigation and Mapping for Mobile Robots | ROS2, Python"
 collection: 
-type: "Workshop"
+type: "projects"
 permalink: /projects/active-learning-notebooks
-venue: JupyterCon
-date: 2018-08-22
-location: "New York NY"
+date: 2025-12-10
+
 ---
+Developed and implemented algorithms in ROS2, Python for the Qualcomm RB5 robot navigation, including SLAM, path
+planning, landmark-based localization, and full-coverage mapping.
 
-The gradual release of responsibility instructional model (also known as the I do, We do, You do model) is a pedagogical technique developed by Pearson & Gallagher where students engage with material more independently over time. In this workshop, participants will learn how to apply the I do, We do, You do framework to teaching with Jupyter notebooks. Over the course of the workshop, participants will complete a series of exercises designed to help them use Jupyter notebooks more effectively support active learning in the classroom.
 
-* [Link to notebook](https://www.kaggle.com/rtatman/active-learning-with-notebooks-jupytercon/)
-* [Link to more info](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68277)
+* [Link to project](https://github.com/anan-123/Introduction-to-Robotics)
+
