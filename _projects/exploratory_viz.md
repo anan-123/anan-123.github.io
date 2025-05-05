@@ -4,7 +4,7 @@ collection: projects
 type: "project"
 
 permalink: /projects/exploratory_viz
-date: 2025-11-25
+date: 2020-11-25
 ---
 
 Download files from server to client via TCP protocol (using sockets) with progress bar
