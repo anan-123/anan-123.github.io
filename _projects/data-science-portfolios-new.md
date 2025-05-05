@@ -1,5 +1,5 @@
 ---
-title: "Recommender Systems and Web Mining | Python"
+title: "Recommender Systems and Web Mining - Python"
 collection: projects
 type: "project"
 permalink: /projects/data-science-portfolios-new
