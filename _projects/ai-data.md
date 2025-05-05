@@ -1,5 +1,5 @@
 ---
-title: "Linux C- shell - operatin"
+title: "Linux C- shell - Operating Systems"
 collection: projects
 type: "project"
 permalink: /projects/ai-your-data

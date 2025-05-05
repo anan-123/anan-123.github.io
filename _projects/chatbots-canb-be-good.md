@@ -1,5 +1,5 @@
 ---
-title: "HappyDB Emotion Detection"
+title: "HappyDB Emotion Detection - NLP"
 collection: projects
 type: "project"
 permalink: /projects/chatbots-good
