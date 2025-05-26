@@ -14,6 +14,10 @@ and SLAM for autonomous tracking and navigation. We presented our work at the Qu
 - **Pose Estimation**: To identify and track the target.
 - **ROS 2 (Humble)**: Middleware for modular system integration.
 
-
-<iframe width="560" height="315" src="https://youtu.be/h01PWA8pQbg" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/h01PWA8pQbg" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
